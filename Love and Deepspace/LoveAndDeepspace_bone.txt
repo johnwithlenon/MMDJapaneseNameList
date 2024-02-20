@@ -34,7 +34,7 @@
 "EyeEnd_L","左目先"
 "Eye_R","右目"
 "EyeEnd_R","右目先"
-"HeadEnd_M","両目"
+"HeadEnd_M","頭先"
 "Scapula_L","左肩"
 "Scapula_L_Scale","左肩"
 "Shoulder_L","左腕"
